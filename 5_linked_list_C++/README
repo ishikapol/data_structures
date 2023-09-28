@@ -1,1 +1,20 @@
+Programming Assignment 5
+Ishika Pol
+Cruz ID: ipol@ucsc.edu
+CSE 101 - Prof Patrick Tantalo
+02/15/2022
+
+----------------------------------
+
+List.h - A file that contains the header files for the List ADT
+
+List.cpp - A file that contains the List ADT that works as a doubly linked list of Node 
+objects with multiple access, manipulation, and other functions
+
+ListTest.cpp - A file that tests the multiple functions in List.c
+
+Shuffle.cpp - A file that uses the functions from List.c to create a program which checks 
+how many shuffles it takes until the list is brought back to its original order
+
+Makefile - Builds the programs Shuffle.c and ListClient.c
 
