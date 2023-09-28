@@ -1,1 +1,21 @@
+Programming Assignment 7
+Ishika Pol
+Cruz ID: ipol@ucsc.edu
+CSE 101 - Prof Patrick Tantalo
+03/04/2022
 
+----------------------------------
+
+Dictionary.h - A file that contains the header files for the Dictionary ADT
+
+Dictionary.cpp - A file that contains the Dictionary ADT based on a Binary Search Tree
+with multiple access, manipulation, and other functions
+
+DictionaryTest.cpp - A file that tests the multiple functions in Dictionary.cpp
+
+Order.cpp - A file that uses the functions from Dictionary.cpp to create a program which 
+will read in words from an input file, store them in a dictionary, first sort them in 
+alphabetical order and secondly order them from a pre-order tree walk, and finally write 
+both strings to an output file
+
+Makefile - Builds the programs Order.cpp and DictionaryClient.cpp
