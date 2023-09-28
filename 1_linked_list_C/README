@@ -1,1 +1,17 @@
+Programming Assignment 1
+Ishika Pol
+Cruz ID: 8122087
+CSE 101 - Prof Patrick Tantalo
+01/13/2021
 
+----------------------------------
+
+List.h - A file that contains the header files for the List ADT
+
+List.c - A file that contains the List ADT that works as a doubly linked list with multiple access, manipulation, and other functions
+
+ListClient.c - A file that tests the multiple fucntions in List.c
+
+Lex.c - A file that uses functions from List.c to create a program that reads in a list from an input file, orders it lexicographically, and writes the new list to an output file
+
+Makefile - Builds the programs ListClient.c and Lex.c
