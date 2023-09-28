@@ -1,1 +1,26 @@
+Programming Assignment 4
+Ishika Pol
+Cruz ID: ipol@ucsc.edu
+CSE 101 - Prof Patrick Tantalo
+02/06/2022
 
+----------------------------------
+
+List.h - A file that contains the header files for the List ADT
+
+List.c - A file that contains the List ADT that works as a doubly linked list with multiple 
+access, manipulation, and other functions
+
+ListTest.c - A file that tests the multiple fucntions in List.c
+
+Matrix.h - A file that contains the header files for the Matrix ADT
+
+Matrix.c - A file that contains the Matrix ADT that works as an array of linked lists with multiple 
+access, manipulation, and other functions
+
+MatrixTest.c - A file that tests the multiple fucntions in Matrix.c
+
+Sparse.c - A file that uses the functions from Matrix.c to read in a matrix and its NNZs from an 
+input file and use those values to perform matrix operations and print them to an output file
+
+Makefile - Builds the programs Sparse.c and MatrixClient.c
