@@ -1,1 +1,24 @@
+Programming Assignment 3
+Ishika Pol
+Cruz ID: 8122087
+CSE 101 - Prof Patrick Tantalo
+01/27/2022
 
+----------------------------------
+
+List.h - A file that contains the header files for the List ADT
+
+List.c - A file that contains the List ADT that works as a doubly linked list with multiple 
+access, manipulation, and other functions
+
+Graph.h - A file that contains the header files for the Graph ADT
+
+Graph.c - A file that contains the Graph ADT with a depth first search with multiple access, 
+manipulation, and other functions
+
+GraphTest.c - A file that tests the multiple fucntions in Graph.c
+
+FindComponents.c - A file that uses the funtions from Graph.c to create a program which creates 
+a graph using the input file, determines its components, and prints them out to the output file
+
+Makefile - Builds the programs FindComponents.c and GraphClient.c
