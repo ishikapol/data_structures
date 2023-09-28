@@ -1,1 +1,27 @@
+Programming Assignment 6
+Ishika Pol
+Cruz ID: ipol@ucsc.edu
+CSE 101 - Prof Patrick Tantalo
+02/25/2022
 
+----------------------------------
+
+List.h - A file that contains the header files for the List ADT
+
+List.cpp - A file that contains the List ADT that works as a doubly linked list with multiple 
+access, manipulation, and other functions
+
+ListTest.cpp - A file that tests the multiple fucntions in List.cpp
+
+BigInteger.h - A file that contains the header files for the BigInteger ADT
+
+BigInteger.cpp - A file that contains the BigInteger ADT that works as a List of longs with
+multiple access, manipulation, and other functions
+
+BigIntegerTest.cpp - A file that tests the multiple fucntions in BigInteger.cpp
+
+Arithmetic.cpp - A file that uses the functions from BigInteger.cpp to create a program that
+reads in two big integers from an input file, performs arithmetic functions on the big integers, 
+and prints the results to an output file
+
+Makefile - Builds the programs Arithmetic.cpp, BigIntegerClient.cpp, and ListClient.cpp
